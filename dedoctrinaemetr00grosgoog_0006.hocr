@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedoctrinaemetr00grosgoog_0006.png"; bbox 0 0 2848 4794; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1103 17 1392 166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1103 17 1392 166">
+     <span class='ocr_line' id='line_1_1' title="bbox 1103 17 1286 103; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 1103 61 1125 98; x_wconf 37' lang='grc' dir='ltr'><strong>ις*</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1146 99 1147 102; x_wconf 20' lang='grc' dir='ltr'><strong>Ἰ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1211 87 1230 103; x_wconf 67' lang='lat'><strong>,⁴</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1269 17 1286 93; x_wconf 50' lang='lat' dir='ltr'>x</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1232 123 1392 166; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1232 157 1243 166; x_wconf 78' lang='grc'><strong>,.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1362 123 1392 161; x_wconf 24' lang='lat'><strong>¹⁸&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1428 4794">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1428 4794">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1428 4794; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1428 4794; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
